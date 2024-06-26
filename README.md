@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 meeeeelong 
 hehehe
 
@@ -6,3 +7,8 @@ hehehe
 
 
 추가추가
+=======
+"# git_msa" 
+"# git_msa" 
+
+>>>>>>> f8d36e603ec60b5178e3fe1d28124a052eeaaee3
