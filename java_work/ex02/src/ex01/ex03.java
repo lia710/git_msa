@@ -1,4 +1,4 @@
-package ex02;
+package ex01;
 
 /*
  * 여러 줄을 주석 처리
@@ -8,7 +8,7 @@ package ex02;
  * ctrl+y 앞으로 가기 
  */
 
-public class ex04 {
+public class ex03 {
 
 	public static void main(String[] args) {
 		System.out.println("10+3=" + 10 + 3);

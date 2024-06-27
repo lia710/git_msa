@@ -1,22 +1,19 @@
 package ex02;
 
-// package 는 디렉토리 입니다.
-// src 디렉토리 밑에 ex01 디렉토리 밑에 ex02.java 파일이 생성됩니다.
-
 public class ex03 {
-	// ctrl + space 자동완성
-	// ctrl + s 저장 단축키
-	// ctrl + shift + f 자동정렬
-	// tab 들여쓰기
-	// shift + tab 내어쓰기
-	// ctrl + f11 실행하는 단축키
-	// ctrl + m 화면 확대 축소
 
-public static void main(String[] args) {
-	System.out.println("10+20=");
-	System.out.println(10+20);
+	public static void main(String[] args) {
+		double num1,num2;
+		num1 = 1.000001;
+		num2 = 2.000002;
+		
+		int _a1 = 10;
+		int $A2 = 20;
+		
+		System.out.println(num1 + num2);
+		System.out.println(_a1);
+		System.out.println($A2);
+		
+	}
 	
-	
-	
-}
 }
