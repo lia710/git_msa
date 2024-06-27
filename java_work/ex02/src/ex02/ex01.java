@@ -13,7 +13,7 @@ public class ex01 {
 		System.out.println("a = " + a);
 		System.out.println("b = " + b);
 		
-		System.out.println("쌍따옴표ㅂㅈㄷㅂㅈㄷ");
+		// System.out.println("쌍따옴표ㅂㅈㄷㅂㅈㄷ");
 		
 		
 	}
